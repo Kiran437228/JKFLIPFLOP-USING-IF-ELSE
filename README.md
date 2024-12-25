@@ -1,6 +1,6 @@
 # NAME:KIRAN KUMAR CS
 # REGNO:24002365
-# EXPERIMENT-7:JK_flipflop
+# EXPERIMENT-5:JK_flipflop
 
 # AIM: 
 
