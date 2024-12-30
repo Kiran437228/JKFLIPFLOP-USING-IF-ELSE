@@ -1,6 +1,6 @@
-# NAME:KIRAN KUMAR CS
-# REGNO:24002365
-# EXPERIMENT-5:JK_flipflop
+## NAME:KIRAN KUMAR CS
+## REGNO:24002365
+# EXPERIMENT-5:Implementation  of JK flipflop
 
 # AIM: 
 
